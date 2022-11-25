@@ -3,7 +3,8 @@
         Porque el --hard hace que se pierda lo que habia en el working copy
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
-        Primero hice un git reflog y luego un git reset y el id del commit al que queremos ir
+        Primero hice un git reflog y luego un git reset y el id del commit al que queremos ir.
+        Luego recupero con git checkout git-nuestro.md
 
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
         No porque hicimos una restauracion con la perdida de la informacion asi que en ese punto 
